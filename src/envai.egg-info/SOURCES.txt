@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.cfg
+setup.py
+src/envai/__init__.py
+src/envai/utils.py
+src/envai.egg-info/PKG-INFO
+src/envai.egg-info/SOURCES.txt
+src/envai.egg-info/dependency_links.txt
+src/envai.egg-info/requires.txt
+src/envai.egg-info/top_level.txt
