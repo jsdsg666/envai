@@ -22,9 +22,11 @@ pip install envai
 import pandas as pd
 import envai
 
-train=pd.read_excel(f_train)
-test=pd.read_excel(f_test)
-#difference_sequence is the environmental indicator to be constructed. The second column is the initial value, the third column is the end value, and the first column is the difference value.The second and third columns are names of columns about the environmental data set what you need to optimize,  the first column is that you need to name it yourself
+train=pd.read_excel(../dataset/pre_train.xlsx)
+test=pd.read_excel(../dataset/pre_test.xlsx)
+'''
+difference_sequence is the environmental indicator to be constructed. The second column is the initial value, the third column is the end value, and the first column is the difference value.The second and third columns are names of columns about the environmental data set what you need to optimize,  the first column is that you need to name it yourself
+'''
 difference_sequence=[('COD', 'WI_COD', 'WO_COD'),(...),('AR_AN', 'WI_AN', 'AR_AN')]
 print(train.describe(),test.describe())
 
@@ -38,7 +40,7 @@ print(after_train.describe(),after_test.describe())
 ## Authors
  
 * **Wang YuQi** -*Harbin Institute of Technology*- *Main work* 
-* **Wang HongCheng** -*Harbin Institute of Technology*- *tutor 
+* **Wang HongCheng** -*Harbin Institute of Technology*- *tutor* 
 * **Wang AiJie** -*Harbin Institute of Technology*- *tutor* 
  
  
