@@ -9,7 +9,7 @@ setup(
     author_email='22S054041@stu.hit.edu.cn',
     packages=find_packages('src'),
     package_dir={'': 'src'},
-    url='https://github.com/geanshu/envai',
+    url='https://github.com/jsdsg666/envai',
     keywords='envai',
     install_requires=[
         'pandas',
