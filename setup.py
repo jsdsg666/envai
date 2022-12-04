@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='envai',
-    version='0.1.3',
+    version='0.1.4',
     license='GNU GPLv3',
     author="Yuqi Wang",
     author_email='22S054041@stu.hit.edu.cn',
