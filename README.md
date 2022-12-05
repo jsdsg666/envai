@@ -46,10 +46,11 @@ print(after_train.describe(),after_test.describe())
  
 ## Authors
  
-* **Wang YuQi** -*Harbin Institute of Technology(shenzhen)*- *Main work* 
-* **Wang HongCheng** -*Harbin Institute of Technology(shenzhen)*- *tutor* 
-* **Wang AiJie** -*Harbin Institute of Technology(shenzhen)*- *tutor* 
-* **Zhou HanBo** -*Harbin Institute of Technology(shenzhen)*- *team members* 
+* **Wang YuQi** -*Harbin Institute of Technology,shenzhen*- *Main work* 
+* **Wang HongCheng** -*Harbin Institute of Technology,shenzhen*- *tutor* 
+* **Wang AiJie** -*Harbin Institute of Technology,shenzhen*- *tutor* 
+* **Zhou HanBo** -*Harbin Institute of Technology,shenzhen*- *team members* 
+* **Lv JiaQiang** -*Harbin Institute of Technology*- *team members* 
  
  
 ## License
@@ -57,5 +58,5 @@ print(after_train.describe(),after_test.describe())
 GPL
  
 ## Acknowledgments
-*Harbin Institute of Technology(shenzhen)*
+*Harbin Institute of Technology,shenzhen*
 
